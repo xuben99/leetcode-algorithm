@@ -1,7 +1,4 @@
-package com.xuben99.leetcode;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.xuben99.leetcode.algorithm;
 
 /**
  * 209. 长度最小的子数组

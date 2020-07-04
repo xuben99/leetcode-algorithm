@@ -1,4 +1,4 @@
-package com.xuben99.leetcode;
+package com.xuben99.leetcode.algorithm;
 
 import java.util.*;
 

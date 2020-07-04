@@ -1,6 +1,4 @@
-package com.xuben99.leetcode;
-
-import java.util.Arrays;
+package com.xuben99.leetcode.algorithm;
 
 /**
  * 718. 最长重复子数组
